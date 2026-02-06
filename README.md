@@ -1,6 +1,4 @@
 # MFPOTGF
-Official implementation of MFPOTGF for MDD classification using multi-tissue (GM/WM/CSF) brain imaging features.
-# MFPOTGF
 
 Official implementation of **MFPOTGF** for **Major Depressive Disorder (MDD)** classification using multi-tissue structural brain imaging features (**GM/WM/CSF**). This repository provides the PyTorch implementation of the full model architecture, including the proposed **FPOTGF** fusion module, together with a dataset loader for subject-wise training/validation splits.
 
